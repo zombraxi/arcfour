@@ -1,3 +1,6 @@
+#ifndef _ZBX_ARCFOUR_HPP_
+#define _ZBX_ARCFOUR_HPP_
+
 #include <cstdint>
 
 #ifdef _MSC_VER
@@ -77,4 +80,4 @@ namespace zbx
 	}
 }
 
-
+#endif
